@@ -1,0 +1,24 @@
+baseURL = 'https://docs.cicadacreativemag.com'
+languageCode = 'en-us'
+theme = 'hugo-book'
+title = 'CCM Docs'
+relativeURLS = true
+
+# Book configuration
+disablePathToLower = true
+enableGitInfo = true
+
+[markup.tableOfContents]
+  startLevel = 1
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+BookTheme = 'auto'
+BookLogo = '/images/green-c.png'
+BookRepo = 'https://github.com/js044/ccm_docs'
+BookDateFormat = 'January 2, 2006'
+
