@@ -36,6 +36,8 @@ The Editorial Director is the head of the Editorial Board. They are responsible 
  {{< /tab >}}
 {{< tab "Editorial Assistant" >}} 
 
+#### Editorial Assistant
+
 <u>**Summary**</u>
 
 The Editorial Assistant is responsible for establishing a timeline, onboarding CTM, and facilitating the review process. They can substitute for the Editorial Director in case of their absence.
