@@ -17,9 +17,14 @@ CCM's staff is divided into two branches: the **Editorial Board (EB)** and the *
 
 The Editorial Board takes the lead on publishing each issue and oversees all administrative and design tasks. It is comprised of six roles. Click through each to learn more about the position. Open positions contain a link to the application.
 
+ <img src="/images/check.png" class="img-fluid" style="max-height: 1rem"> = Position open
+
+ <img src="/images/red-x.png" class="img-fluid" style="max-height: 0.9rem"> = Position closed
+
 {{< tabs "eb" >}}
 {{< tab "Editorial Director" >}} 
-<u>**Summary**</u>
+
+#### Editorial Director  <img src="/images/red-x.png" class="img-fluid px-2" style="max-height: 1.3rem">
 
 The Editorial Director is the head of the Editorial Board. They are responsible for the logistics and direction of the organization. This includes running meetings, maintaining documentation, and setting agendas.
 
@@ -35,10 +40,8 @@ The Editorial Director is the head of the Editorial Board. They are responsible 
 <button type="button" class="btn btn-danger float-end" disabled>Applications closed</button>
  {{< /tab >}}
 {{< tab "Editorial Assistant" >}} 
-
-#### Editorial Assistant
-
-<u>**Summary**</u>
+ 
+#### Editorial Assistant  <img src="/images/check.png" class="img-fluid px-1" style="max-height: 1.4rem">
 
 The Editorial Assistant is responsible for establishing a timeline, onboarding CTM, and facilitating the review process. They can substitute for the Editorial Director in case of their absence.
 
@@ -53,7 +56,7 @@ The Editorial Assistant is responsible for establishing a timeline, onboarding C
 {{< /tab >}}
 {{< tab "Managing Editor" >}}
 
-<u>**Summary**</u>
+#### Managing Editor <img src="/images/check.png" class="img-fluid px-1" style="max-height: 1.4rem"> <img src="/images/check.png" class="img-fluid px-1" style="max-height: 1.4rem">
 
 This role is divided between two people. Managing Editors lead workshops and review sessions and architect the newsletter. One Managing Editor should be more language-oriented and the other more familiar with visual arts.
 
@@ -67,7 +70,7 @@ This role is divided between two people. Managing Editors lead workshops and rev
 {{< /tab >}}
 {{< tab "Creative Director" >}}
 
-<u>**Summary**</u>
+#### Creative Director  <img src="/images/red-x.png" class="img-fluid px-1" style="max-height: 1.3rem"><img src="/images/red-x.png" class="img-fluid px-2" style="max-height: 1.3rem">
 
 This role is divided between two people. Creative Directors are expected to create marketing material and guide the visual identity of CCM.
 
@@ -85,7 +88,7 @@ This role is divided between two people. Creative Directors are expected to crea
 {{< /tab >}}
 {{< tab "Communications Director" >}}
 
-<u>**Summary**</u>
+#### Communications Director <img src="/images/check.png" class="img-fluid px-1" style="max-height: 1.4rem">
 
 This role is dedicated to managing how we interface with the public.
 
@@ -101,7 +104,7 @@ This role is dedicated to managing how we interface with the public.
 {{< /tab >}}
 {{< tab "Web Developer" >}}
 
-<u>**Summary**</u>
+#### Web Developer <img src="/images/check.png" class="img-fluid px-1" style="max-height: 1.4rem">
 
 The Web Developer is expected to manage our website’s code and oversee the Discord server.
 
@@ -121,16 +124,16 @@ The Web Developer is expected to manage our website’s code and oversee the Dis
 {{< /tab >}}
 {{< /tabs >}}
 
-## Creative Team
+## Creative Team 
 
 CTM are recruited twice a year, but off-season applications are also accepted. They operate on more of an as-needed basis and are not expected to devote the same level of commitment as Editorial Board members.
 
 {{< tabs "ctm" >}}
 {{< tab "Creative Team Member" >}}
 
-<u>**Summary**</u>
+#### Creative Team Member <img src="/images/check.png" class="img-fluid px-1" style="max-height: 1.4rem">
 
-Creative Team members assist with review sessions and blog content. 
+Creative Team Members assist with review sessions and blog content. 
 
 <u>**Responsibilities**</u>
 - Attend review sessions, contribute substantively to the conversation, and vote on submissions. There are usually 2-3 review sessions per issue cycle, each one lasting approximately 2 hours or less.
