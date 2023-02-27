@@ -49,7 +49,7 @@ Here at CCM, we’ve branded ourselves as more than a literary magazine. We aim 
 
 - **Visual**
     - Video games, visual novels
-    - Coding/programming
+    - Coding and programming
     - Computer generated imagery *
     - Culinary art
     - Character design

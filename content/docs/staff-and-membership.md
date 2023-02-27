@@ -15,7 +15,7 @@ CCM's staff is divided into two branches: the **Editorial Board (EB)** and the *
 
 ## Editorial Board
 
-The Editorial Board takes the lead on publishing each issue and oversees all administrative and design tasks. It is comprised of six roles. Click through each to learn more about the position. Open positions contain a link to the application.
+The Editorial Board takes the lead on publishing each issue and oversees all administrative and design tasks. It is comprised of six roles. Click through each to learn more about the position. Open positions contain a link to the application. Applicants may fill out multiple applications; we will place you in the position you seem strongest in.
 
  <img src="/images/check.png" class="img-fluid" style="max-height: 1rem"> = Position open
 
