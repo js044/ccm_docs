@@ -47,3 +47,24 @@ Our blog is a collection of writing and art our staff has created for the newsle
 - Managing Editors will oversee the timeline to ensure blog posts are uploaded at least one day before the newsletter is released.
 
 <a href="/images/blog.png"><img src="/images/blog.png" class="img-fluid" style="max-height: 30rem" alt="A photo of a board with three broad categories stating What We Do, How We Do It, and Why We Do It. Messy notes line the margins. The title is CICADA - Brand foundation Brain Spread."> </a>
+
+# Creation Week
+
+Early each month, the Communications Director should make a post in the `#creation-week` channel on Discord planning out the social media calendar (and possibly soliciting social media post suggestions.) Ideally, we will have ~2 pieces of social media engagement per week. This is meant to work synergistically with the newsletter/blog.
+
+Examples of content that may be suggested:
+- Social media campaigns
+	- "This-or-that" polls
+	- Instagram takeover
+- Highlights
+	- Previously published pieces
+	- Specific blog posts
+- Announcements
+	- Staff vacancies
+	- Submissions/workshops opening
+- Marketing
+	- Posts about the server
+	- Merch/physical copies
+	- Newsletter posts
+
+If the Communications Director struggles to generate all 7-8 social media pieces for the month, they may solicit suggestions from other staff members.
