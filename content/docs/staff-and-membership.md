@@ -41,7 +41,7 @@ The Editorial Director is the head of the Editorial Board. They are responsible 
  {{< /tab >}}
 {{< tab "Editorial Assistant" >}} 
  
-#### Editorial Assistant  <img src="/images/check.png" class="img-fluid px-1" style="max-height: 1.4rem">
+#### Editorial Assistant <img src="/images/red-x.png" class="img-fluid px-2" style="max-height: 1.3rem">
 
 The Editorial Assistant is responsible for establishing a timeline, onboarding CTM, and facilitating the review process. They can substitute for the Editorial Director in case of their absence.
 
@@ -52,7 +52,7 @@ The Editorial Assistant is responsible for establishing a timeline, onboarding C
 - Take meeting minutes and upload them to Google Drive and Discord.
 - Coordinate workshops alongside Managing Editors.
 
-<a href="https://forms.gle/jWF8UAG7aN1uTGnA6" class="btn btn-success float-end">Apply here!</a>
+<button type="button" class="btn btn-danger float-end" disabled>Applications closed</button>
 {{< /tab >}}
 {{< tab "Managing Editor" >}}
 
@@ -66,7 +66,7 @@ This role is divided between two people. Managing Editors lead workshops and rev
 - Conduct the biyearly review process. One Managing Editor will head the Language/Cultural & Social (LCS) review team and the other will lead the Visual/Spatial/Auditory (VSA) team.
 - Managing Editors will oversee workshops according to their skillset. (LCS Managing Editor runs writing workshops; VSA Managing Editor runs visual arts workshops.)
 
-<a href="https://forms.gle/jR8c3zuEG6N3Bcpk9" class="btn btn-success float-end">Apply here!</a>
+<a href="https://tally.so/r/woExBM" class="btn btn-success float-end">Apply here!</a>
 {{< /tab >}}
 {{< tab "Creative Director" >}}
 
@@ -100,7 +100,7 @@ This role is dedicated to managing how we interface with the public.
 - Develop a repeatable, predictable schedule for social media activity and campaigns.
 - Investigate litmag contests, conferences, and other opportunities.
 
-<a href="https://forms.gle/Vvn2xq1arVDdYhi97" class="btn btn-success float-end">Apply here!</a>
+<a href="https://tally.so/r/woExBM" class="btn btn-success float-end">Apply here!</a>
 {{< /tab >}}
 {{< tab "Web Developer" >}}
 
@@ -120,7 +120,7 @@ The Web Developer is expected to manage our website’s code and oversee the Dis
 - Secure the login/password information to all social media accounts and periodically update the credentials based on membership changes.
 - Oversee our Discord server and maintain the bots, server health, etc.
 
-<a href="https://forms.gle/JtN3S4vQNJjd8ox69" class="btn btn-success float-end">Apply here!</a>
+<a href="https://tally.so/r/woExBM" class="btn btn-success float-end">Apply here!</a>
 {{< /tab >}}
 {{< /tabs >}}
 
@@ -140,7 +140,7 @@ Creative Team Members assist with review sessions and blog content.
 - Each CTM is expected to contribute to the blog and/or social media content at least once per issue cycle.
 - Assist with community-building efforts by helping organize events and social media campaigns.
 
-<a href="https://forms.gle/bKRKpVK35BaGkbSf9" class="btn btn-success float-end">Apply here!</a>
+<a href="https://tally.so/r/woExBM" class="btn btn-success float-end">Apply here!</a>
 {{< /tab >}}
 {{< /tabs >}}
 
