@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorials &amp; Reference on Docs</title>
+    <link>https://docs.cicadacreativemag.com/docs/tutorials/</link>
+    <description>Recent content in Tutorials &amp; Reference on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://docs.cicadacreativemag.com/docs/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://docs.cicadacreativemag.com/docs/tutorials/web-style-guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://docs.cicadacreativemag.com/docs/tutorials/web-style-guide/</guid>
+      <description>Web Style Guide [WIP]#Our website has gone through several, several iterations, and it is likely to continue evolving. This style guide is meant to be a dynamic document that can help provide structure to our design vision even as we grow and change.
+Colors#One of the most formative elements of our visual branding is our color schemes/themes.
+(placeholder until there are more formal graphics)
+:root,:root.</description>
+    </item>
+    
+  </channel>
+</rss>

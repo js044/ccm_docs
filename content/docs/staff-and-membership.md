@@ -41,7 +41,7 @@ The Editorial Director is the head of the Editorial Board. They are responsible 
  {{< /tab >}}
 {{< tab "Editorial Assistant" >}} 
  
-#### Editorial Assistant <img src="/images/red-x.png" class="img-fluid px-2" style="max-height: 1.3rem">
+#### Editorial Assistant <img src="/images/check.png" class="img-fluid px-1" style="max-height: 1.4rem">
 
 The Editorial Assistant is responsible for establishing a timeline, onboarding CTM, and facilitating the review process. They can substitute for the Editorial Director in case of their absence.
 
@@ -52,7 +52,7 @@ The Editorial Assistant is responsible for establishing a timeline, onboarding C
 - Take meeting minutes and upload them to Google Drive and Discord.
 - Coordinate workshops alongside Managing Editors.
 
-<button type="button" class="btn btn-danger float-end" disabled>Applications closed</button>
+<a href="https://tally.so/r/woExBM" class="btn btn-success float-end">Apply here!</a>
 {{< /tab >}}
 {{< tab "Managing Editor" >}}
 
