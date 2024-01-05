@@ -77,69 +77,57 @@ You can combine elements of these categories -- several of the examples we provi
 {{< /hint >}}
 
 # Review
+As of now, the Art Editor runs one review team (Visual/Spatial/Auditory) and the Writing Editor runs the other (Language & Cultural/Social). If they are unavailable, another Editorial Board member will substitute, most likely the Graphic Designer and Newsletter Editor respectively. In the future, depending on volume of submissions and staff availability, these teams may be restructured. Note that there will be multiple review sessions per issue cycle, typically 1-2 per month.
 
-For now, the Managing Editors run one review team each. If they are unavailable, another Editorial Board Member will substitute. One team handles Visual/Spatial/Auditory submissions and the other handles Language/Cultural & Social. In the future, depending on volume of submissions and staff availability, these teams may be restructured.
+{{< hint info >}}
+**Note:** This process is being tried out for the first time for Issue 08. Be aware that many of these conventions will be tweaked depending on the outcome of Issue 08's review process.
+{{< /hint >}}
 
 ## Phase 1: Before Review
-
-1. The Editorial Assistant should aggregate the submissions into a packet/slideshow to be ready for review anonymously.
-    - All files should be titled in a name_title format when submitted (doe_cicadadrawing.jpg) If the file names will be visible during the presentation process, please create copies of the files without last names.
-    - Packets/presentations should include the title of the work. This often changes the interpretation of the work.
-2. Packets/slideshows will be distributed via email prior to the review session. Discord notifications will also be sent when the packets are sent. This ideally is done at least one week before review.
-3. All Cicada members will review the packet and should have some notes in mind prior to the review day.
-4. At some point before review, the Editorial Assistant or Managing Editors should create a post on Discord in the #review channel. They should create a numbered list of pieces they are going to review.
-    - The EBM will create a thread keeping track of the votes and scores.
-    - This is also where people can vote asynchronously.
+1. The Associate Editor should aggregate the submissions in bulk to be ready for anonymous review. This involves creating a spreadsheet to track submissions and scoring, as well as preparing files for review on Discord. Files should be sorted into two separate folders, one for VSA review and the other for LCS. 
+    - All file names should be anonymized upon submission (title.jpg), but in the case someone leaves their name in, the Associate Editor should remove it.
+    - The Associate Editor should create a Google Sheet in the Shared Drive with two tabs for VSA review and LCS review. Before sharing the spreadsheet with other Editorial Board members, they should hide the name fields.
+2. Once pieces are anonymized and added to the spreadsheet, the Associate Editor should email the Art Editor and Writing Editor with the corresponding packet of work and the spreadsheet. This should be done at least 3 business days prior to the review session.
+3. The Associate Editor should make a post in the `#review` channel. They should announce when the review session will take place and include links to the Google Drive folders with the current round of review's pieces in case anyone wants to review them in advance.
 
 ## Phase 2: During Review
-
-1. Based on the number of submissions, the review leaders will create a time limit to review each work and will monitor that time during review. (Going somewhat over the limit OK as some pieces will naturally take more time to process than others.)
-2. Review leaders will steer the conversation by:
+1. On the day of the review session, the Writing and Art Editors (Review leaders) will post anonymized pieces (or links to pieces in the case of writing) in their respective review channels (`#lcs-review` and `#vsa-review`) along with the title and medium. They will then create a thread for discussion, each titled with the convention of "Title Thread." 
+2. Each person participating in review should add their thoughts on the piece and also directly respond to someone else's feedback. 
+3. Review leaders will steer the conversation by:
     - Introducing the piece with its title
     - Sharing any necessary information that may add to the interpretation (interesting mediums? Large or small dimensions?)
     - Stopping the conversation from looping. If the EBM feels as though the conversation is just repeating itself they will step in and move things along.
-3. When reviewers have made up their minds about a piece, they may score it in one of two ways:
-    1. Verbally. The review leader will ask for people's votes and keep track of them in the thread and on the spreadsheet.
-    2. Reviewers can also reply in thread to a post with their score.
-4. Review leaders will record each piece’s score. Pieces are reviewed on a score of 1-3. Note that in-between votes (like 2.5) are allowed.
+3. After discussion has concluded, the Art/Writing Editor will ask for people's final votes and then record them in the spreadsheet. Pieces are reviewed on a score of 1-3. Note that in-between votes (like 2.5) are allowed.
     - **Score Guide:**
     1.  = Amazing!
     2.  = Good/Acceptable
     3.  = Insufficient
 
-
 ## Phase 3: After Review
-
-1. Scores should be divided by the total reviewers to get an average score and recorded in the Google Sheets file.
-2. EB leaders will work together to determine a cutoff line. This line is adjustable based on the amount submitted. As more editions are published the cutoff line should become more and more consistent. It is only currently flexible to adjust to varying submissions.
-3. EB leaders will then sort the files of each piece according to what was accepted and what was rejected. EB leaders will move the ORIGINAL FILES - not the anonymous ones. Accepted files will not be moved. Not accepted files will be moved into a folder titled “not accepted.”
-4. The Communications Director will send out rejection/acceptance emails to submitters and ask for any necessary additional information.
+1. Scores should be divided by the total reviewers to get an average score. The Google Sheet should do this automatically.
+2. The Associate Editor will determine a cutoff line and can speak with the Review leaders to determine what this will be. This line is adjustable based on the amount submitted. As more editions are published the cutoff line should become more and more consistent. It is only currently flexible to adjust to varying submissions.
+3. The Associate Editor will then sort the files according to what was accepted and what was rejected. For convenience, the Associate Editor may decide to only create an "Accepted" folder and leave the rejected pieces unsorted.
+4. The Associate Editor will send out rejection/acceptance emails to submitters and ask for any necessary additional information.
 
 # Cover Design
+The cover is crafted by the Art Editor, Graphic Designer, and/or Freelancers.
 
-The cover is crafted by the Creative Directors. This often happens collaboratively with Creative Team Members.
-
-1. Any interested staff will sign up to join a cover design meeting.
-2. Staff members will create a "post" in the <code>#cover-design</code> forum channel on Discord and tag it with whatever issue they are suggesting for. In their post, they can deliver as many pitches for the cover concepts as they like. This may include using other inspiration images, writing out concepts, etc.
+1. After the theme selection is finalized through a public vote, an Editorial Board member should create a post in the `#issues` forum channel that is tagged with the appropriate issue (ie "Issue 08") and the tag "Cover Design."
+2. Any interested staff can contribute as many pitches for cover concepts as they like. This may include using other inspiration images, writing out concepts, etc.
     - An example might be someone proposing the design motif of "hazy" and using accompanying photos of hazy typography as a model.
-    - Because presentations will ultimately be going around based on presenter as opposed to idea, people should put all their ideas in one thread and then present them in succession. 
-3. After the deadline for submitting proposals, we will hold a formal cover design meeting and discuss each person's idea.
-4. An EBM will create a poll synthesizing the cover design ideas from the meeting.
-5. Creative Directors will use the results of the poll as guidance in crafting a cover.
-    - This usually means combining the top 2-3 design elements proposed.
-    - If the Creative Directors use design elements proposed by a staff member who has expressed interest in being involved with the cover's design, the Creative Directors may reach out to that person(s) and ask for their assistance.
+3. After discussing all of these proposals, the Art Editor (or whoever is leading the issue cover illustration) will select the one that resonates most with them. If the Art Editor uses design elements proposed by a staff member who has expressed interest in being involved with the cover's design, they may reach out to that person(s) and ask for their assistance.
 
 # Publish
 
 The tasks we need to take in the final stretch of an Issue cycle include, but are not limited to the following.
 
-1. Creative Directors (or any available staff member) must turn select accepted pieces into transparent PNG thumbnails.
-2. Creative Directors must also decide the order of the magazine and how it will look best arranged. If no one performs this task, it is ultimately to the discretion of the Web Developer.
+1. The Graphic Designer must turn some accepted pieces into transparent PNG thumbnails and rest into square shaped thumbnails.
+2. The Graphic Designer must also decide the order of the magazine and how it will look best arranged. If no one performs this task, it is ultimately to the discretion of the Web Developer.
 3. The Web Developer is responsible for actually making the issue live.
     - See our [Hugo tutorials](/docs/tutorials/hugo) for more information.
     - It is up to the Web Developer to maintain best practices for file management. If everyone else has followed proper naming protocol, this should be relatively straightforward.
-    - The Communications Director and any other interested staff members should assist by writing alt text for published pieces.
-4. The Managing Editors will announce the publication of the issue in the monthly newsletter.
+    - Any interested staff members should assist by writing alt text for published pieces.
+4. The Newsletter Editor will announce the publication of the issue in the monthly newsletter and the Social Media Manager will promote it on our accounts.
 
 # Published Issues
 

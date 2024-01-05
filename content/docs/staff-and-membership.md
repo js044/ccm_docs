@@ -47,7 +47,7 @@ The Associate Editor is responsible for establishing a timeline, facilitating th
 
 **Responsibilities**
 - Sketch out the timeline for each CCM publication utilizing technology such as Google suite to make spreadsheets, graphs, and other visualizations.
-- Facilitate the biyearly review process by tracking submissions with a spreadsheet, coordinating blind review, and averaging tallied votes. The Associate Editor will determine the cutoff average scores and be responsible for the final selection process.
+- Facilitate the biyearly review process by creating a spreadsheet for score and submission tracking and coordinating blind review. The Associate Editor will determine the cutoff average scores and be responsible for the final selection process.
 - Lead staff recruitment and onboarding. This includes contacting the applicants, selecting pieces for mock review, and managing the orientation.
 - Take meeting minutes and upload them to Google Drive and Discord.
 - Oversee our email account and respond to inquiries within three business days. Also responsible for sending acceptance/rejection emails.
@@ -59,7 +59,7 @@ The Associate Editor is responsible for establishing a timeline, facilitating th
 The Writing Editor produces copy for CCM and copyedits staff-generated content. The Writing Editor is also responsible for running Language/Cultural & Social (LCS) review. They should be eloquent and have strong writing and editing skills.
 
 **Responsibilities**
-- Conduct the biyearly review process as the head of the LCS review team. Give all tallied votes to the Associate Editor for averaging/the final selection process. 
+- Conduct the biyearly review process as the head of the LCS review team. After discussion and voting have ended, they will add all votes to the score tracking spreadsheet.
 - Write the "Editor's Note" for each issue. This is typically 300-400 words.
 - Write copy for each issue cycle's theme, which includes a high level summary of the theme and sample prompts for the theme.
 - Copyedit submitted blog pieces for the monthly newsletter.
@@ -87,7 +87,7 @@ Art Editors must have access to photo editing software. Adobe Suite is preferred
 {{< /hint >}}
 
 **Responsibilities**
-- Conduct the biyearly review process as the head of the VSA review team. Give all tallied votes to the Associate Editor for averaging/the final selection process. 
+- Conduct the biyearly review process as the head of the VSA review team. After discussion and voting have ended, they will add all votes to the score tracking spreadsheet.
 - Help define the visual language for each issue alongside the Graphic Designer. This will entail giving feedback and assisting with asset creation.
 - Create illustrations for blog posts (2-3 per month).
 - Run workshops related to art.
@@ -187,12 +187,8 @@ Editorial Assistants are the most specialized of the Creative Team. They assist 
 ## Eligibility
 Anyone over the age of 18 can apply to join our staff! Ideal applicants will be communicative, creative, and cooperative. They will also have strong organization skills and be capable of meeting deadlines. Our application requirements vary depending on the position, but they all currently require you to:
 - answer a few questions about yourself,
-- share any relevant experience,
-- and submit three creative samples. 
-
-{{< hint info >}}
-**Note**: Editorial Board applications, in addition to the aforementioned requirements, also require a resume/CV.
-{{< /hint >}}
+- share your resume/CV,
+- and submit two creative samples. 
 
 ## Recruitment
 - Staff is actively recruited twice a year at the beginning of each issue cycle. There may be an additional "off-season" staff recruitment cycle depending on staff availability.

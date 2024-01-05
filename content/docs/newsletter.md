@@ -9,7 +9,7 @@ weight: 5
 # bookSearchExclude: false
 ---
 
-# Newsletter & Blog
+# Newsletter & Blog [WIP - NEEDS UPDATING]
 
 The newsletter is meant to be published once a month and is a collaborative effort between the Creative Directors, Managing Editors, and Creative Team Members. 
 

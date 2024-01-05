@@ -4,7 +4,7 @@ Hugo is the static site generator we use to create and maintain Cicada. This pag
 
 ## Install 
 
-Please visit Hugo Docs to get started with installation. You can find instructions for Windows, Mac, Linux, and BSD [here](https://gohugo.io/installation/). Work with our current Web Developer to get access to CCM's repository and then you will be ready to modify the site.
+Please visit Hugo Docs to get started with installation. You can find instructions for Windows, Mac, Linux, and BSD [here](https://gohugo.io/installation/). Work with our current Web Developer to get access to CCM's [repository](https://github.com/js044/ccm) and then you will be ready to modify the site.
 
 
 ## Publishing an issue
