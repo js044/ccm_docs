@@ -10,162 +10,199 @@ weight: 2
 ---
 
 # Staff & Membership
+CCM's staff is divided into two branches: the **Editorial Board** and the **Creative Team.** The Editorial Board takes the lead on publishing each issue and oversees all administrative tasks. The Creative Team assists with review, community-building, and blog content.
 
-CCM's staff is divided into two branches: the **Editorial Board (EB)** and the **Creative Team (CT).**
+{{< button href="https://tally.so/r/woExBM" >}}Apply to staff{{< /button >}}
+
+{{< hint info >}}
+**Note:** All positions will require staff to use Discord since it's our primary method of communication. Prospective staff does not need to have an account at the time of submitting an application but will need to make one if accepted.
+{{< /hint >}}
 
 ## Editorial Board
+The Editorial Board is comprised of eight roles, with one person per role. The EB coordinates each issue. Click through each tab to learn more about the position.
 
-The Editorial Board takes the lead on publishing each issue and oversees all administrative and design tasks. It is comprised of six roles. Click through each to learn more about the position. Open positions contain a link to the application. Applicants may fill out multiple applications; we will place you in the position you seem strongest in.
+✅ = Position open
 
- <img src="/images/check.png" class="img-fluid" style="max-height: 1rem"> = Position open
-
- <img src="/images/red-x.png" class="img-fluid" style="max-height: 0.9rem"> = Position closed
+❌ = Position closed
 
 {{< tabs "eb" >}}
-{{< tab "Editorial Director" >}} 
+{{< tab "Editor-in-Chief ❌" >}} 
+**Editor-in-Chief**
 
-#### Editorial Director  <img src="/images/red-x.png" class="img-fluid px-2" style="max-height: 1.3rem">
+The Editor-in-Chief is the head of the Editorial Board. They are responsible for the logistics and direction of the organization. This includes running meetings, maintaining documentation, and setting agendas. The EIC should demonstrate role flexibility and strong organizational skills.
 
-The Editorial Director is the head of the Editorial Board. They are responsible for the logistics and direction of the organization. This includes running meetings, maintaining documentation, and setting agendas.
-
-<u>**Responsibilities**</u>
-- Prepare and announce the agenda for weekly staff meetings. This requires delegating tasks, tracking their progress, and ensuring we stay on schedule. The Editorial Director is also responsible for announcing organizational changes such as membership changes, deadline extensions, meeting cancellations, etc.
-- Create applications for submissions and staff.
-- Prepare tutorials, minutes, and other documentation for posterity and onboarding. These documents are expected to be organized and easily accessible to other members.
-- Communicate with staff to streamline work processes.
-- Interface with CTM and EB in the case of disciplinary action and/or potential dismissal.
+**Responsibilities**
+- Prepare and announce the agenda for weekly staff announcements. This requires delegating tasks, tracking their progress, and ensuring we stay on schedule. The EIC is also responsible for announcing organizational changes such as membership changes, deadline extensions, meeting cancellations, etc.
+- Create applications for submissions and staff, which may be updated over time based on staff feedback and organizational observations.
+- Organize tutorials and other documentation for posterity and onboarding. These documents are expected to be organized and easily accessible to other members.
+- Interface with staff in the case of disciplinary action and/or potential dismissal.
 - Assign appropriate accommodations for staff, assist with conflict resolution, and act as a resource for the server and staff.
 - Keep track of financial obligations (such as website domain renewal) and ensure we are up to date on payment.
+{{< /tab >}}
 
-<button type="button" class="btn btn-danger float-end" disabled>Applications closed</button>
- {{< /tab >}}
-{{< tab "Editorial Assistant" >}} 
- 
-#### Editorial Assistant <img src="/images/check.png" class="img-fluid px-1" style="max-height: 1.4rem">
+{{< tab "Associate Editor ✅" >}} 
+**Associate Editor**
 
-The Editorial Assistant is responsible for establishing a timeline, onboarding CTM, and facilitating the review process. They can substitute for the Editorial Director in case of their absence.
+The Associate Editor is responsible for establishing a timeline, facilitating the review process, and onboarding new staff. They can substitute for the EIC if necessary. The Associate Editor should be organized, detail-oriented, and reliable.
 
-<u>**Responsibilities**</u>
-- Sketch out the timeline for each CCM publication.
-- Facilitate the biyearly review process by tracking submissions with a spreadsheet, coordinating blind review, and tallying votes.
-- Lead the biyearly CTM recruitment and onboarding. This includes contacting the applicants, selecting pieces for mock review, and managing the orientation.
+**Responsibilities**
+- Sketch out the timeline for each CCM publication utilizing technology such as Google suite to make spreadsheets, graphs, and other visualizations.
+- Facilitate the biyearly review process by tracking submissions with a spreadsheet, coordinating blind review, and averaging tallied votes. The Associate Editor will determine the cutoff average scores and be responsible for the final selection process.
+- Lead staff recruitment and onboarding. This includes contacting the applicants, selecting pieces for mock review, and managing the orientation.
 - Take meeting minutes and upload them to Google Drive and Discord.
-- Coordinate workshops alongside Managing Editors.
-
-<a href="https://tally.so/r/woExBM" class="btn btn-success float-end">Apply here!</a>
+- Oversee our email account and respond to inquiries within three business days. Also responsible for sending acceptance/rejection emails.
 {{< /tab >}}
-{{< tab "Managing Editor" >}}
 
-#### Managing Editor <img src="/images/check.png" class="img-fluid px-1" style="max-height: 1.4rem"> <img src="/images/check.png" class="img-fluid px-1" style="max-height: 1.4rem">
+{{< tab "Writing Editor ❌" >}}
+**Writing Editor**
 
-This role is divided between two people. Managing Editors lead workshops and review sessions and architect the newsletter. One Managing Editor should be more language-oriented and the other more familiar with visual arts.
+The Writing Editor produces copy for CCM and copyedits staff-generated content. The Writing Editor is also responsible for running Language/Cultural & Social (LCS) review. They should be eloquent and have strong writing and editing skills.
 
-<u>**Responsibilities**</u>
-- Oversee the monthly newsletter process. This requires selecting the newsletter theme, soliciting content from members, writing copy, etc.
+**Responsibilities**
+- Conduct the biyearly review process as the head of the LCS review team. Give all tallied votes to the Associate Editor for averaging/the final selection process. 
+- Write the "Editor's Note" for each issue. This is typically 300-400 words.
+- Write copy for each issue cycle's theme, which includes a high level summary of the theme and sample prompts for the theme.
+- Copyedit submitted blog pieces for the monthly newsletter.
+- Copyedit accepted pieces for publication to ensure correctness.
+- Assist with "Book Club" and writing workshops.
+{{< /tab >}}
+
+{{< tab "Newsletter Editor ✅" >}}
+**Newsletter Editor**
+
+The Newsletter Editor organizes the monthly newsletter. They should be adept with sticking to timelines, and have strong communication skills.
+
+**Responsibilities**
+- Oversee the monthly newsletter process. This requires selecting the newsletter theme, soliciting content from members, writing copy, requesting art from the Art Editor, etc.
 - Update the Google Calendar with monthly deadlines for newsletter curation.
-- Conduct the biyearly review process. One Managing Editor will head the Language/Cultural & Social (LCS) review team and the other will lead the Visual/Spatial/Auditory (VSA) team.
-- Managing Editors will oversee workshops according to their skillset. (LCS Managing Editor runs writing workshops; VSA Managing Editor runs visual arts workshops.)
-
-<a href="https://tally.so/r/woExBM" class="btn btn-success float-end">Apply here!</a>
 {{< /tab >}}
-{{< tab "Creative Director" >}}
 
-#### Creative Director  <img src="/images/red-x.png" class="img-fluid px-1" style="max-height: 1.3rem"><img src="/images/red-x.png" class="img-fluid px-2" style="max-height: 1.3rem">
+{{< tab "Art Editor ❌" >}}
+**Art Editor**
 
-This role is divided between two people. Creative Directors are expected to create marketing material and guide the visual identity of CCM.
+The Art Editor is responsible for generating monthly blog illustrations and leading review for the Visual/Spatial/Auditory review team. The Art Editor also spearheads the cover design process for each issue but may collaborate with the Graphic Designer.
 
-<u>**Pre Requirements**</u>
-- Creative Directors must have access to photo editing software. Adobe Suite is preferred, especially Illustrator, Photoshop, and InDesign. If they do not have access to Adobe Suite, they must demonstrate that they can work synergistically with their Co-Creative Director using alternative software such as Procreate, Krita, Gimp, etc.
+{{< hint info >}}
+Art Editors must have access to photo editing software. Adobe Suite is preferred, but if they do not have access to this software, they must demonstrate that they have robust workflows that allow for collaborative editing using alternatives such as Procreate, Clip Studio Paint, Krita, Gimp, etc.
+{{< /hint >}}
 
-<u>**Responsibilities**</u>
-- Create graphics for social media posts and newsletter/blog posts.
-- Create transparent thumbnails for issue publication.
-- Spearhead the effort to create a cover for each issue based on the theme and tone. This does not necessarily mean they must design the covers by themselves--they are encouraged to collaborate with CTM--but they will be guiding the process and updating CCM regarding its progress.
-- Will create design files that can be easily accessed by other team members. In case of emergency, they should be templatized and editable for another member to intervene.
-- Assemble print-ready layouts of digital issues. We have a template for print layout, but the Creative Directors must decide the order and layout of pieces and create a PDF deliverable.
-
-<button type="button" class="btn btn-danger float-end" disabled>Applications closed</button>
+**Responsibilities**
+- Conduct the biyearly review process as the head of the VSA review team. Give all tallied votes to the Associate Editor for averaging/the final selection process. 
+- Help define the visual language for each issue alongside the Graphic Designer. This will entail giving feedback and assisting with asset creation.
+- Create illustrations for blog posts (2-3 per month).
+- Run workshops related to art.
+- Create a cover for each issue. The cover process should involve periodic updates and be based on the theme and tone.
 {{< /tab >}}
-{{< tab "Communications Director" >}}
 
-#### Communications Director <img src="/images/check.png" class="img-fluid px-1" style="max-height: 1.4rem">
+{{< tab "Graphic Designer ✅" >}}
+**Graphic Designer**
 
-This role is dedicated to managing how we interface with the public.
+The Graphic Designer is responsible for assembling online and print editions of the publication, as well as creating assets used in marketing. The Graphic Designer works closely with the Social Media Manager. They should have strong design skills and work well with others.
 
-<u>**Responsibilities**</u>
-- Run Creation Week and solicit ideas from EBM, CTM, and the general public to initiate social media campaigns, posts, etc.
-- Oversee our email account and reply within three business days.
-- Send acceptance/rejection emails for submitters and applicants.
-- Manage Twitter and Instagram accounts--this includes networking, replying to direct messages, etc.
+{{< hint info >}}
+Graphic Designers must have access to photo editing software. Adobe Suite is preferred, but if they do not have access to this software, they must demonstrate that they have robust workflows that allow for collaborative editing using alternatives such as Procreate, Clip Studio Paint, Krita, Gimp, etc.
+{{< /hint >}}
+
+**Responsibilities**
+- Create graphics for social media posts and the newsletter. 
+- Help define the visual language for each issue alongside the Art Editor. This involves generating ideas for what would make good marketing campaigns and what will stand out.
+- Create thumbnails for issue publication and determine the order of published pieces.
+- Assemble print-ready layouts of digital issues. We have a template for print layout, but the Graphic Designer must decide the order and layout of pieces and create a PDF deliverable.
+- May also give feedback to the Web Developer regarding website design.
+- Collaborate with the Art Editor to create a cover for each issue. The cover process should involve periodic updates and be based on the theme and tone.
+{{< /tab >}}
+
+{{< tab "Social Media Manager ❌" >}}
+**Social Media Manager**
+
+The Social Media Manager runs our social media accounts and interfaces with the public. They market CCM and help get the word out about time-limited events. The Social Media Manager should be savvy with online trends and capable of maintaining a consistent online presence. They should have strong communication skills.
+
+{{< hint info >}}
+Social Media Managers will be expected to run our accounts on [X](https://x.com/cicadacreatemag), [Instagram](https://www.instagram.com/cicadacreativemag), [Chill Subs](https://www.chillsubs.com/magazine/cicada-creative-mag), and potentially Bluesky at some point in the future. If they do not know how these platforms work, they must be willing to learn. 
+{{< /hint >}}
+
+**Responsibilities**
+- Solicit ideas from staff to plan and initiate social media campaigns and posts.
+- Manage our social media accounts, which includes networking, replying to direct messages, and following new people.
+- Post at least twice a week to make sure our presence is felt.
 - Develop a repeatable, predictable schedule for social media activity and campaigns.
-- Investigate litmag contests, conferences, and other opportunities.
-
-<a href="https://tally.so/r/woExBM" class="btn btn-success float-end">Apply here!</a>
+- Keep our social media profiles up to date with current links and information.
+- Investigate litmag contests, conferences, and other opportunities for staff and submitters. 
 {{< /tab >}}
-{{< tab "Web Developer" >}}
 
-#### Web Developer <img src="/images/check.png" class="img-fluid px-1" style="max-height: 1.4rem">
+{{< tab "Web Developer ❌" >}}
+**Web Developer**
 
-The Web Developer is expected to manage our website’s code and oversee the Discord server.
+The Web Developer is expected to manage our website’s code as well as handle the technical behind-the-scenes of our Discord server. The Web Developer should be knowledgeable, communicative, and eager to learn new things.
 
-<u>**Pre Requirements**</u>
-- Must be well-versed in HTML, CSS, and Javascript for front-end web management.
-- Must know how to host static websites (or be willing to learn).
-- Be aware of best practices for accessibility on the web; must be able to implement Web Content Accessibility Guidelines (WCAG).
+{{< hint info >}}
+Web Developers must be well-versed in HTML, CSS, and Javascript. They must also know SASS/SCSS or be willing to learn. They must understand static site generators well enough to manage our Hugo-generated main website and documentation website. They should also be aware of best practices for accessibility on the web and understand how to implement Web Content Accessibility Guidelines (WCAG).
+{{< /hint >}}
 
-<u>**Responsibilities**</u>
-- Work in collaboration with the Creative Directors to update the website’s front-end code. Our current workflow utilizes Hugo, Netlify, and Github.
+**Responsibilities**
+- Work in collaboration with the Graphic Designer to update the website’s front-end code. Our current workflow utilizes Hugo, Netlify, and Github.
 - Update the website according to new information (such as staff changes).
 - Upload the issue. The Web Developer must communicate their progress to develop an accurate timeline.
 - Secure the login/password information to all social media accounts and periodically update the credentials based on membership changes.
 - Oversee our Discord server and maintain the bots, server health, etc.
 
-<a href="https://tally.so/r/woExBM" class="btn btn-success float-end">Apply here!</a>
 {{< /tab >}}
 {{< /tabs >}}
 
 ## Creative Team 
-
-CTM are recruited twice a year, but off-season applications are also accepted. They operate on more of an as-needed basis and are not expected to devote the same level of commitment as Editorial Board members.
+The Creative Team is comprised of three roles, with multiple people per role. They support the EB in curating each issue. Click through each tab to learn more about the position.
 
 {{< tabs "ctm" >}}
-{{< tab "Creative Team Member" >}}
+{{< tab "Reviewers ✅" >}}
+**Reviewers**
 
-#### Creative Team Member <img src="/images/check.png" class="img-fluid px-1" style="max-height: 1.4rem">
+Reviewers' primary role is attending review sessions and critiquing anonymized work. Reviewers should be well-versed in how to engage with and evaluate work meaningfully.
 
-Creative Team Members assist with review sessions and blog content. 
+**Responsibilities**
+- Attend review sessions, contribute substantively to the conversation, and vote on submissions. Review happens on a rolling basis with structured asynchronous discussion. 
+- Reviewers can also contribute to the blog if they like, but this is entirely voluntary.
+{{< /tab >}}
 
-<u>**Responsibilities**</u>
-- Attend review sessions, contribute substantively to the conversation, and vote on submissions. There are usually 2-3 review sessions per issue cycle, each one lasting approximately 2 hours or less.
-- Each CTM is expected to contribute to the blog and/or social media content at least once per issue cycle.
-- Assist with community-building efforts by helping organize events and social media campaigns.
+{{< tab "Freelancers ✅" >}}
+**Freelancers**
 
-<a href="https://tally.so/r/woExBM" class="btn btn-success float-end">Apply here!</a>
+Freelancers work on more of an as-needed basis according to their unique skillsets. They should be good at meeting deadlines, even when unsupervised.
+
+**Responsibilities**
+- Freelancers can perform a variety of tasks, including writing blog posts, assisting with social media campaigns, creating assets for marketing, and working on the cover.
+- Freelancers can participate in review if they like, but this is entirely voluntary.
+{{< /tab >}}
+
+
+{{< tab "Editorial Assistants ✅" >}}
+#### Editorial Assistants 
+Editorial Assistants are the most specialized of the Creative Team. They assist specific Editorial Board members and learn how to navigate the position should it ever become vacant.
+
+**Responsibilities**
+- An Editorial Assistant's responsibilities will vary significantly depending on the position they are training for. In general, they will assist in whatever way is most beneficial for their learning and CCM as a whole.
+- Note that being an Editorial Assistant does not guarantee they will ever become an Editorial Board member, nor does it mean they are obligated to become an Editorial Board member should the position become available.
 {{< /tab >}}
 {{< /tabs >}}
 
 ## Eligibility
-
 Anyone over the age of 18 can apply to join our staff! Ideal applicants will be communicative, creative, and cooperative. They will also have strong organization skills and be capable of meeting deadlines. Our application requirements vary depending on the position, but they all currently require you to:
 - answer a few questions about yourself,
 - share any relevant experience,
 - and submit three creative samples. 
 
-Check individual applications for more information.
+{{< hint info >}}
+**Note**: Editorial Board applications, in addition to the aforementioned requirements, also require a resume/CV.
+{{< /hint >}}
 
 ## Recruitment
-
-- Creative Team Members will be actively recruited once per issue cycle.
-    - Applications are open year-round, but "off-season" applicants may have to partake in an asynchronous orientation.
-    - Synchronous orientation for CTM usually occurs approximately one month before review.
-- Editorial Board applications will stay open until they are filled and are reviewed on a rolling basis.
-    - If an applicant does not currently qualify for an EB position, they may be offered a role as CTM instead and forgo the CTM application process.
-    - Applications are reviewed by the EB and then voted on. At least 75% of the staff must agree on new staff members.
-    - All applicants should receive feedback on their application within one month.
+- Staff is actively recruited twice a year at the beginning of each issue cycle. There may be an additional "off-season" staff recruitment cycle depending on staff availability.
+- Applications stay open for approximately 3 weeks at a time.
+    - Applications are reviewed by the Editorial Board and then voted on. At least 75% of the staff must agree on new staff members for them to be accepted.
+    - All applicants should receive feedback on their applications within one month, likely less. 
+- New staff is sent a powerpoint orientation via email and then onboarded in a special Discord channel reviewing the powerpoint and prompoting them to participate in a simulated review.
 
 ## Revocation of Membership
-
-Although we prefer it doesn't come to this, in cases of repeated misconduct, there may be situations in which the Editorial Board will elect to remove a member of CCM.
+In cases of repeated misconduct, there may be situations in which the Editorial Board will elect to remove a member of CCM.
 
 - If a staff member's behavior is problematic, the Editorial Board will vote on whether or not to issue them a formal warning. Examples of concerning behavior include:
     - Missing more than **four** consecutive meetings with no warning.

@@ -10,11 +10,9 @@ weight: 3
 ---
 
 # Meetings
-
 Staff meetings have evolved a lot over CCM's history and likely will continue to evolve. We currently hold them on Discord.
 
 ## Meeting Formats
-
 It is ultimately up to the staff member holding the meeting to determine what style would be best suited to them. A few meeting formats we use are:
 
 - Synchronous chat-based meetings. Ex: Everyone has to log on for a real-time chat conversation.
@@ -28,11 +26,10 @@ Regardless of how the meeting is structured, keep in mind that most meetings sho
 3. Clear direction/to-do lists for upcoming tasks.
 
 ## Rules & Requirements
-
 A few guidelines to keep meetings running smoothly.
 
-1. It is mandatory for EBM to attend weekly meetings. If they cannot come, they must tell the Editorial Director immediately so they can prepare alternate (usually asynchronous) meeting materials for them.
-2. CTM are not required to attend staff meetings, but are highly encouraged.
-3. If any staff member (including CTM) is expected at a meeting but discovers they cannot attend, they must notify the meeting organizer at least half an hour prior to the meeting.
-4. Synchronous voice call meetings tend to last an hour--two hours max. If they do run long are seldom over an hour, EBM are allowed to leave.
-5. Please practice basic call courtesy. Be mindful of your mic. Mute yourself if there's a lot of background noise that competes with the speaker.
+1. It is mandatory for staff to attend weekly meetings. If they cannot come, they must tell the EIC immediately so they can prepare alternate (usually asynchronous) meeting materials for them.
+2. If any staff member discovers they cannot attend a meeting, they must notify the meeting organizer at least half an hour prior to the meeting.
+3. Synchronous voice call meetings tend to last 1-2 hours max. If they run long, staff may leave.
+4. Please practice basic call courtesy. Be mindful of your mic. Mute yourself if there's a lot of background noise that competes with the speaker.
+5. If a meeting is asynchronous/text-based, please acknowledge reception of the message by "reacting" to the post or replying in the post's thread. 

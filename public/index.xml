@@ -1,97 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Welcome on Docs</title>
-    <link>https://docs.cicadacreativemag.com/</link>
-    <description>Recent content in Welcome on Docs</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://docs.cicadacreativemag.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Cicada</title>
-      <link>https://docs.cicadacreativemag.com/docs/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs.cicadacreativemag.com/docs/about/</guid>
-      <description>About Cicada#Cicada Creative Magazine is an interdisciplinary, all-arts publication. Submissions typically open twice a year, once in the spring and fall. At the end of each issue cycle, these submissions are anonymized and reviewed by two editorial teams. Then, we publish a carefully crafted issue of your work.
-We acknowledge that art doesn’t always come box-shaped, perfectly ready to fall into a category. Cicada Creative Magazine exists to showcase that artistic exploration and novelty.</description>
-    </item>
-    
-    <item>
-      <title>Staff &amp; Membership</title>
-      <link>https://docs.cicadacreativemag.com/docs/staff-and-membership/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs.cicadacreativemag.com/docs/staff-and-membership/</guid>
-      <description>Staff &amp;amp; Membership#CCM&amp;rsquo;s staff is divided into two branches: the Editorial Board (EB) and the Creative Team (CT).
-Editorial Board#The Editorial Board takes the lead on publishing each issue and oversees all administrative and design tasks. It is comprised of six roles. Click through each to learn more about the position. Open positions contain a link to the application. Applicants may fill out multiple applications; we will place you in the position you seem strongest in.</description>
-    </item>
-    
-    <item>
-      <title>Meetings</title>
-      <link>https://docs.cicadacreativemag.com/docs/meetings/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs.cicadacreativemag.com/docs/meetings/</guid>
-      <description>Meetings#Staff meetings have evolved a lot over CCM&amp;rsquo;s history and likely will continue to evolve. We currently hold them on Discord.
-Meeting Formats#It is ultimately up to the staff member holding the meeting to determine what style would be best suited to them. A few meeting formats we use are:
-Synchronous chat-based meetings. Ex: Everyone has to log on for a real-time chat conversation. Asynchronous chat-based tasks.</description>
-    </item>
-    
-    <item>
-      <title>Issue Cycles</title>
-      <link>https://docs.cicadacreativemag.com/docs/issue-cycles/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs.cicadacreativemag.com/docs/issue-cycles/</guid>
-      <description>Issue Cycles#Each issue cycle, regardless of length, follows a similar process. The timeline should be determined before implementing these steps.
-Theme Selection#Each issue has a theme intended to help guide submitters wondering what we&amp;rsquo;re looking for. These themes are voted on in a multi-step process.
-The Editorial Director (or other EBM) creates a collaborative presentation for interested staff and server members to contribute brief ideas. An example of a presentation like this is here.</description>
-    </item>
-    
-    <item>
-      <title>Newsletter &amp; Blog</title>
-      <link>https://docs.cicadacreativemag.com/docs/newsletter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs.cicadacreativemag.com/docs/newsletter/</guid>
-      <description>Newsletter &amp;amp; Blog#The newsletter is meant to be published once a month and is a collaborative effort between the Creative Directors, Managing Editors, and Creative Team Members.
-Signups#Early in the month, the Managing Editors will seek signups for newsletter content.
-In the #newsletter channel, the Managing Editors will send a post announcing: The month&amp;rsquo;s theme. The estimated date of release. The Managing Editor will create a thread from the post prompting CTM &amp;amp; EB to sign up.</description>
-    </item>
-    
-    <item>
-      <title>Workshops</title>
-      <link>https://docs.cicadacreativemag.com/docs/workshops/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs.cicadacreativemag.com/docs/workshops/</guid>
-      <description>Workshops#Workshops are a newer implementation, and so these guidelines are still more of a loose starting point. They are intended to be versatile enough to describe multiple types of workshops.
-Workshops are generally run by Managing Editors, but if any staff member is qualified and interested, they may also host a workshop. Workshops are not a recurrent, scheduled event (yet). Instead, when a staff member has bandwidth, they announce and plan a workshop a few weeks (or months) in advance.</description>
-    </item>
-    
-    <item>
-      <title>FAQ</title>
-      <link>https://docs.cicadacreativemag.com/docs/faq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs.cicadacreativemag.com/docs/faq/</guid>
-      <description>Frequently Asked Questions#1. Can I put CCM on my resume?
-Yes. You can also cite the Editorial Director as a reference (please give advance notice). If you feel a different staff member would be a more relevant reference, please ask that staff member directly.
-2. Do I have to attend synchronous voice call meetings?
-No. For accessibility&amp;rsquo;s sake, there will always be a text-based alternative. However, if you are able to attend synchronous meetings, please do!</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://docs.cicadacreativemag.com/docs/tutorials/web-style-guide/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs.cicadacreativemag.com/docs/tutorials/web-style-guide/</guid>
-      <description>Web Style Guide [WIP]#Our website has gone through several, several iterations, and it is likely to continue evolving. This style guide is meant to be a dynamic document that can help provide structure to our design vision even as we grow and change.
-Colors#One of the most formative elements of our visual branding is our color schemes/themes.
-(placeholder until there are more formal graphics)
-:root,:root.</description>
-    </item>
-    
-  </channel>
-</rss>
