@@ -75,6 +75,9 @@ The Newsletter Editor organizes the monthly newsletter. They should be adept wit
 **Responsibilities**
 - Oversee the monthly newsletter process. This requires selecting the newsletter theme, soliciting content from members, writing copy, requesting art from the Art Editor, etc.
 - Update the Google Calendar with monthly deadlines for newsletter curation.
+- Refresh the newsletter theme for each issue cycle to loosely align with one of our website's color schemes.
+- Send copyedited blog posts to the Web Developer at least one business day before the newsletter is scheduled for release.
+- Coordinate with the Social Media Manager to launch and assist with social media campaigns.
 {{< /tab >}}
 
 {{< tab "Art Editor ❌" >}}
