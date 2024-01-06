@@ -178,7 +178,8 @@ Freelancers work on more of an as-needed basis according to their unique skillse
 
 
 {{< tab "Editorial Assistants ✅" >}}
-#### Editorial Assistants 
+**Editorial Assistants**
+
 Editorial Assistants are the most specialized of the Creative Team. They assist specific Editorial Board members and learn how to navigate the position should it ever become vacant.
 
 **Responsibilities**
